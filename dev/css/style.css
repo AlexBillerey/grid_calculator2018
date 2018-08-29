@@ -467,59 +467,6 @@ width:100%;
         background: #60c1ff;
 
     }
-    /*.nine,
-    .six,
-    .three,
-    .plus {
-        grid-column: 3/4;
-    }
-    .eight,
-    .five,
-    .two {
-        grid-column: 2/3;
-    }
-    .seven,
-    .four,
-    .one {
-        grid-column: 1/2;
-    }
-    .nine,
-    .eight,
-    .seven,
-    .divide {
-        grid-row: 2/3;
-    }
-    .six,
-    .five,
-    .four,
-    .times {
-        grid-row: 3/4;
-    }
-    .three,
-    .two,
-    .one,
-    .minus {
-        grid-row: 4/5;
-    }
-    .zero,
-    .decimal,
-    .plus,
-    .equals {
-        grid-row: 5/6;
-    }
-    .decimal {
-        grid-column: 2/3;
-    }
-    .answer {
-        background: #ddd;
-        grid-column: 1/5;
-        padding: .5rem;
-        direction: rtl;
-        font-size: 1.75rem;
-        border: none;
-        width: calc(100% - 3rem);
-        margin: 0 auto;
-    }*/
 }
 
 .ir {
