@@ -367,6 +367,7 @@ html {
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
+    font-family: system-ui;
 }
 
 html, button, input, select, textarea {
@@ -630,10 +631,14 @@ h1 {
     background: #fff;
 }
 
-footer {
-    display: grid;
-    justify-content: center;
+
+
+    footer {
+        display: grid;
+        justify-content:center;
 }
+
+
 .calculator {
     display: grid;
     border: solid 10px darkred;
